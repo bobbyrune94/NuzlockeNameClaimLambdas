@@ -1,5 +1,5 @@
 /*
-* INPUT <string> response --- the response to the ClaimTablesGetPokemonClaimLambda
+* INPUT <json object> response --- the response to the ClaimTablesGetPokemonClaimLambda
 * INPUT <string> pokemon --- the name of the pokemon being checked
 * OUTPUT <string> --- the nickname associated with the pokemon, or error message if there was one
 */
